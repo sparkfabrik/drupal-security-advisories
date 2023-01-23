@@ -31,9 +31,6 @@ jobs:
       - name: Build 9.x
         run: time php console.php build:composer current
 
-      - name: Build 7.x
-        run: time php console.php build:composer 7.x
-
       - uses: actions/checkout@v3
         with:
           ref: 9.x
@@ -42,14 +39,4 @@ jobs:
         working-directory: build-9.x
         run: |
           cp $DSA_BUILD_DIR/current.json composer.json
-          ${{ github.workspace }}/tools/git-commit
-
-      - uses: actions/checkout@v3
-        with:
-          ref: 7.x
-          path: build-7.x
-      - name: Update 7.x branch
-        working-directory: build-7.x
-        run: |
-          cp $DSA_BUILD_DIR/legacy.json composer.json
           ${{ github.workspace }}/tools/git-commit
