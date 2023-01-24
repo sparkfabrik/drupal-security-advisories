@@ -2,20 +2,12 @@
 
 This package ensures that your application doesn't have installed dependencies with known security vulnerabilities. Inspired by [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories).
 
-[![Circle CI](https://circleci.com/gh/drupal-composer/drupal-security-advisories/tree/main.svg?style=svg)](https://circleci.com/gh/drupal-composer/drupal-security-advisories/tree/main)
-
 ## Installation
 
 ### Drupal 9+ ([composer.json](https://github.com/drupal-composer/drupal-security-advisories/blob/9.x/composer.json))
 
 ```sh
 ~$ composer require drupal-composer/drupal-security-advisories:9.x-dev
-```
-
-### Drupal 7 ([composer.json](https://github.com/drupal-composer/drupal-security-advisories/blob/7.x/composer.json))
-
-```sh
-~$ composer require drupal-composer/drupal-security-advisories:7.x-dev
 ```
 
 ## Usage
@@ -48,4 +40,3 @@ This packages gets information form Drupal.org APIs.
 ## Building
 
 - Drupal 9+: `php console.php build:composer current`
-- Drupal 7: `php console.php build:composer 7.x`
