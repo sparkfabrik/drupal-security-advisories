@@ -137,7 +137,7 @@
         "drupal/private_taxonomy": ">1.1.0,<2.6.0",
         "drupal/prlp": "<1.5.0",
         "drupal/profile": "<1.1.0",
-        "drupal/protected_pages": "<1.1.0",
+        "drupal/protected_pages": "<1.6.0",
         "drupal/quick_node_clone": "<1.15.0",
         "drupal/quickedit": "<1.0.1",
         "drupal/rate": "<1.0.0-alpha6|>1.0.0-alpha7,<2.0.0-beta1",
