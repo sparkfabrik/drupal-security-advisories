@@ -163,7 +163,7 @@
         "drupal/students": "<1.2.0",
         "drupal/subgroup": "<1.0.1",
         "drupal/super_login": "<1.7.0",
-        "drupal/svg_formatter": "<1.17.0|>1.17.0,<2.0.1",
+        "drupal/svg_formatter": "<1.17.0|>1.18.0,<2.0.1",
         "drupal/svg_image": "<1.10.0",
         "drupal/swiftmailer": "<1.0.0-beta1",
         "drupal/tablefield": "<2.1.0",
