@@ -120,6 +120,7 @@
         "drupal/nodejs": "<1.0.0",
         "drupal/oauth": ">1.2.0,<2.1.0",
         "drupal/oauth_server_sso": "<1.1.0",
+        "drupal/office_hours": "<1.11.0",
         "drupal/open_readspeaker": "<1.5.0",
         "drupal/openid_connect": "<1.1.0",
         "drupal/openid_connect_windows_aad": "<1.4.0",
