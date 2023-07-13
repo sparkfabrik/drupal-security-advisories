@@ -185,6 +185,7 @@
         "drupal/taxonomy_access_fix": "<2.7.0",
         "drupal/taxonomy_manager": ">1.0.0-beta2,<2.0.6",
         "drupal/tb_megamenu": "<1.4.0",
+        "drupal/tfa": "<1.1.0",
         "drupal/tft": "<1.0.0-beta2",
         "drupal/thunder": ">5.11.0,<6.4.6|>6.4.6,<6.5.3",
         "drupal/tmgmt": "<1.7.0",
