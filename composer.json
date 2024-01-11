@@ -206,6 +206,7 @@
         "drupal/thunder": ">5.11.0,<6.4.6|>6.4.6,<6.5.3",
         "drupal/tmgmt": "<1.7.0",
         "drupal/twig_field_value": ">1.2.0,<2.0.1",
+        "drupal/typogrify": "<1.3.0",
         "drupal/unified_twig_ext": "<1.1.1",
         "drupal/user_hash": ">1.4.0,<2.0.1",
         "drupal/vendor_stream_wrapper": "<2.0.1",
