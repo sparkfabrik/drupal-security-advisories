@@ -59,6 +59,7 @@
         "drupal/entity_browser": ">1.10.0,<2.9.0",
         "drupal/entity_browser_block": "<1.2.0",
         "drupal/entity_delete": "<1.4.0",
+        "drupal/entity_delete_log": "<1.1.1",
         "drupal/entity_embed": "<1.2.0",
         "drupal/entity_print": ">1.3.0,<2.6.0",
         "drupal/entity_ref_tab_formatter": "<1.3.0",
