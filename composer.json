@@ -171,6 +171,7 @@
         "drupal/rate": "<1.0.0-alpha6|>1.0.0-alpha7,<2.0.0-beta1",
         "drupal/readonlymode": "<1.0.0",
         "drupal/recaptcha_v3": "<1.2.0",
+        "drupal/registration_role": ">1.1.0,<2.0.1",
         "drupal/require_login": "<1.8.0",
         "drupal/s3fs": ">2.0.0-alpha1,<3.2.0",
         "drupal/safedelete": "<1.0.44",
