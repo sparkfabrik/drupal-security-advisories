@@ -157,7 +157,7 @@
         "drupal/pdf_api": "<2.2.2",
         "drupal/permissions_by_term": "<1.35.0|>1.61.0,<2.0.0|>2.10.0,<2.11.0|>2.34.0,<3.1.19",
         "drupal/photos": "<4.5.0|>4.5.0,<6.0.4",
-        "drupal/php": "<=1.1.0",
+        "drupal/php": "<1.2.0",
         "drupal/phpconfig": "<1.1.0",
         "drupal/piwik": "<1.1.0",
         "drupal/preview_link": ">1.0.0-alpha3,<1.1.0",
