@@ -11,6 +11,7 @@
         "drupal/addtoany": "<1.21.0|>1.22.0,<2.0.4",
         "drupal/admin_toolbar": ">1.27.0,<2.5.0|>2.5.0,<3.0.2",
         "drupal/admin_toolbar_search": "<=1.0.0",
+        "drupal/adv_varnish": ">3.4.0,<4.0.11",
         "drupal/advanced_pwa": "<1.5.0",
         "drupal/aes": "<=2.4.0",
         "drupal/alinks": "<1.1.0",
